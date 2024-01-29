@@ -1,0 +1,12 @@
+^renv$
+^renv\.lock$
+^peersonwheels\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^README-.*\.png$
+^\.github$
+^CODE_OF_CONDUCT\.md$
+analysis
+^Dockerfile$
+^render-in-docker\.yaml$
